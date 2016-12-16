@@ -1,5 +1,5 @@
 {
-  "name": "angular-date-time-input",
+  "name": "angular-date-time-input-no-douchebag",
   "description": "This angular directive allows users to manually enter date-time values in a variety of formats but displays the date value in the specified format.",
   "author": "https://github.com/dalelotts/angular-date-time-input/graphs/contributors",
   "license": "MIT",
